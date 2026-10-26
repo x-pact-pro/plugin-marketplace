@@ -820,6 +820,24 @@
         ]
       }
     },
+    "privatedao-agent-exchange": {
+      "sha": "87fd0cfe9b08e5918951ff34ba900cfec9b0e655",
+      "version": "1.2.6",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "privatedao-agent-exchange",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "privatedao-agent-exchange",
+            "description": "Use PrivateDAO Agent Exchange for commercial verification, intelligence, receipts, discovery, PrivatePAY x402 guidance,…"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "eb4db2b55b2b7dec3d9282754cddf0a56bf4ff10",
       "version": "0.15.30",
