@@ -486,6 +486,35 @@
         "email": "support@videogen.io",
         "url": "https://github.com/video-gen"
       }
+    },
+    {
+      "name": "privatedao-agent-exchange",
+      "description": "PrivateDAO Agent Exchange MCP plugin for commercial verification, intelligence, receipt evidence, agent discovery, and PrivatePAY x402 private settlement on Solana Mainnet.",
+      "category": "business",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/x-pact-pro/PrivateDAO.git",
+        "sha": "87fd0cfe9b08e5918951ff34ba900cfec9b0e655",
+        "path": "plugins/privatedao-agent-exchange"
+      },
+      "homepage": "https://agents.privatedao.org/",
+      "keywords": [
+        "privatedao",
+        "private dao agent exchange",
+        "privatepay x402",
+        "solana private payments",
+        "commercial verification",
+        "receipt verification"
+      ],
+      "domains": [
+        "privatedao.org",
+        "agents.privatedao.org"
+      ],
+      "version": "1.2.6",
+      "author": {
+        "name": "PrivateDAO",
+        "url": "https://privatedao.org/"
+      }
     }
   ]
 }
